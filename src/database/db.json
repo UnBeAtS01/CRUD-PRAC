@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Rohit Sharma",
+      "username": "Hitman",
+      "email": "rohit21@gmail.com",
+      "phone": "8953578963",
+      "id": 1
+    },
+    {
+      "name": "Ankit Sinha",
+      "username": "hii",
+      "email": "ankit.unbeat01@gmail.com",
+      "phone": "07488879327",
+      "id": 3
+    },
+    {
+      "name": "dinesh kartik",
+      "username": "dkwise01",
+      "email": "dkwise@gmail.com",
+      "phone": "9573284539",
+      "id": 4
+    },
+    {
+      "name": "Naincy Sinha",
+      "username": "minnions",
+      "email": "likeminions1234567@gmail.com",
+      "phone": "07075733036",
+      "id": 5
+    }
+  ]
+}
